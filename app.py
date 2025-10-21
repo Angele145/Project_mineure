@@ -9,7 +9,7 @@ carre = [1**2, 2**2, 4**2, 7**2]
 d = {"nombres": nombres, "carré": carre}
 data = pd.DataFrame(d)
 
-st.dataFrame(data)
+st.dataframe(data)
 
 st.header("Widgets Interactifs")
 
