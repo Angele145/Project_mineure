@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.header("mon application
+st.header("mon application")
 
 bombres = [1, 2, 4, 7]
 carré = [1**2, 2**2, 4**2, 7**2]
